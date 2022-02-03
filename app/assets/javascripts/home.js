@@ -1,5 +1,5 @@
 $(document).ready(function(){
-    $('p').click(function(){
+    $('h2').click(function(){
         console.log('Click en el parrafo');
     })
 })
